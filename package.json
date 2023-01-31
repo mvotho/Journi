@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 8080",
+    "dev": "next dev -p 8081",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -22,6 +22,7 @@
     "lexical": "^0.7.6",
     "next": "13.1.5",
     "next-auth": "^4.18.10",
+    "pocketbase": "^0.10.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
