@@ -1,10 +1,7 @@
-import { Inter } from '@next/font/google'
 import { ArrowRightIcon } from '@heroicons/react/24/solid'
 import Editor from "../components/Editor"
-import PocketBase from 'pocketbase';
 import Entry from '@/components/Entry';
 
-const inter = Inter({ subsets: ['latin'] })
 
 
 async function getPosts() {
