@@ -1,1 +1,1 @@
-Journal app built with NextJS
+Journal app built with NextJS and PocketBase as the backend server.
